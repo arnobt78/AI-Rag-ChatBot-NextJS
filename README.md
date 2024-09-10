@@ -109,7 +109,7 @@ For using next-ui library, you need to change tailwind contect. Go to your `tail
 content: [
   ...
   ...
-  "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",`
+  "./node_modules/@nextui-org/theme/dist/**/*.{js,ts,jsx,tsx}",
   ],
 ```
 

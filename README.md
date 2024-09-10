@@ -5,9 +5,9 @@
 
 AI-Rag-ChatBot is a complete project example with RAGChat and Next.js 14, using Upstash Vector Database, Upstash Qstash, Upstash Redis, Dynamic Webpage Folder, Middleware, Typescript, Vercel AI SDK for the Client side Hook, Lucide-React for Icon, Shadcn-UI, Next-UI Library Plugin to modify TailwindCSS and deploy on Vercel. It is not just an AI, but also a pattern convension and provides reply super fast and it also can memorize all previous chat history from the Vector Storage so it doesn't have to reload the page again once its already indexed. 
 
-**Note: To run this project, you must use the url on your localhost as: `http://localhost:3000/https:/www.wikipedia.org`
+**Note:** To run this project, you must use the url on your localhost as: `http://localhost:3000/https:/www.wikipedia.org`
 
-**Note: To check this webpage live, click here:** 
+**Note: To check this webpage live, click here:** Its running on localhost properly but having some issue while deploying on Vercel but soon gonna fix it.
 
 (To understand more about rag-chat and upstash, watch on youtube: https://www.youtube.com/watch?v=Ka8GoIUhM3g&t=26s )
 

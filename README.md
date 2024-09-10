@@ -9,6 +9,8 @@ AI-Rag-ChatBot is a complete project example with RAGChat and Next.js 14, using 
 
 **Note: To check this webpage live, click here:** 
 
+(To understand more about rag-chat and upstash, watch on youtube: https://www.youtube.com/watch?v=Ka8GoIUhM3g&t=26s )
+
 ## To Install Dependences
 
 Before launching this web application, be sure to install all required dependencies, which are listed in the package.json file.
